@@ -1,0 +1,57 @@
+body{
+    font-size: 1.325rem;
+    color: #011627;
+    margin:0;
+}
+
+h1{
+    font-size: 5rem;
+    color: #41ead4;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.5rem;
+    color: #f02;
+}
+
+.container{
+    max-width: 980px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.columns{
+    display: flex;
+    margin: 20px;
+    align-items: stretch;
+    margin:20px 0;
+    gap: 40px;
+    text-align: justify;
+}
+
+img{
+    max-width: 100%;
+}
+
+h1 span{
+    color: #b91372;
+}
+
+.col-bkg{
+    background: #011627;
+    padding: 20px;
+    color: #fff;
+    width: 30%;
+}
+
+.col-1{
+    width: 35%;
+}
+.col-2{
+    width: 45%;
+}
+
+.col-3{
+    width: 70%;
+}
